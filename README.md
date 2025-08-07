@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on **Solar Animation.**
 
-- 🌱 I’m currently learning **Javascript,React**
+- 🌱 I’m currently learning **javascript,react and redux**
+
+- 📫 How to reach me **prashu2242@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
